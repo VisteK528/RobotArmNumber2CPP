@@ -1,0 +1,1 @@
+Version of R.A.N. 2 software wrote in C++ programming language
